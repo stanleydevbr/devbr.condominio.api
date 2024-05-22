@@ -1,5 +1,9 @@
 # Projeto de software para gestão de condomínio
-Objetivo deste projeto e criar um api com funcionalidades basicas é necessárias para gestão de um ou mais condomínio. 
+Objetivo deste projeto e criar um software com funcionalidades basicas é necessárias para gestão de um ou mais condomínio. 
+Inicialmente será identificas as informações necessárias para as entidades:
+- Condominio
+- Unidades
+- Condônimino
 
 ## Estrutura do projeto
 
