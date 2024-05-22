@@ -23,7 +23,7 @@ Inicialmente será identificas as informações necessárias para as entidades:
 - Redis
 - outros...
 
-
+// oi
 ## Cadastros:
 ### Condomínio
 ### Unidades
