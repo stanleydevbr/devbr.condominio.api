@@ -15,3 +15,15 @@
 8. **Implantação**: Implantar o software em um ambiente de produção, garantindo que ele funcione corretamente.
 
 9. **Manutenção e Atualizações**: Continuar a manter e atualizar o software após a implantação, corrigindo bugs e adicionando novas funcionalidades conforme necessário.
+
+
+# Gestão de Condomínio: 
+## Modulo de cadastro:
+### Condominio
+- Unidades:
+- Configurações:
+- Responsáveis legais:
+- Contas bancarias:
+- Formas de recebimento:
+- Plano de contas:
+- Relatórios:
